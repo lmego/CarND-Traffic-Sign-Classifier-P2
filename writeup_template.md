@@ -13,11 +13,11 @@ The goals of the project were to:
 
 [//]: # (Image References)
 
-[image1]: ./write-up-images/im1.jpg "Sample Traffic Sign Classes"
-[image2]: ./write-up-images/im2.jpg "Initial distribution of training/validation images per class"
-[image3]: ./write-up-images/im3.jpg "Original vs Normalized images"
-[image4]: ./write-up-images/im4.jpg "Training/Validation Loss & Learning curves"
-[image5]: ./write-up-images/im5.jpg "Web Images downloaded from the web and predictions"
+[image1]: /write-up-images/im1.jpg "Sample Traffic Sign Classes"
+[image2]: /write-up-images/im2.jpg "Initial distribution of training/validation images per class"
+[image3]: /write-up-images/im3.jpg "Original vs Normalized images"
+[image4]: /write-up-images/im4.jpg "Training/Validation Loss & Learning curves"
+[image5]: /write-up-images/im5.jpg "Web Images downloaded from the web and predictions"
 
 
 ###Data Set Summary & Exploration
